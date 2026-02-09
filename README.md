@@ -126,7 +126,6 @@ Quick researching of unknown tools revealed known offensive utilities ( powercat
 This incident reaffirmed that recognizing attacker behavior is more critical than memorizing specific tools or IOCs. Tool names and indicators can be researched quickly, but the ability to question unusual command execution and investigate why activity is occurring in uncommon contexts was the more valuable skill in this case.
 This reinforced my confidence in trusting behavioral indicators when making escalation decisions under time pressure.
 
-
 ---
 
 ### 2. Visibility Gaps Matter
